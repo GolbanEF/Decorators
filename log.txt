@@ -1,0 +1,10 @@
+Function call time: Wed Aug 24 22:11:34 2022
+Function name: get_shop_list_by_dishes
+Arguments: (['Запеченный картофель', 'Омлет'], 2)
+Result: {'Картофель ': {'measure': ' кг', 'quantity': 2}, 'Чеснок ': {'measure': ' зубч', 'quantity': 6}, 'Сыр гауда ': {'measure': ' г', 'quantity': 200}, 'Яйцо ': {'measure': ' шт', 'quantity': 4}, 'Молоко ': {'measure': ' мл', 'quantity': 200}, 'Помидор ': {'measure': ' шт', 'quantity': 4}}
+
+Function call time: Wed Aug 24 22:11:34 2022
+Function name: get_shop_list_by_dishes
+Arguments: (['Фахитос'], 6)
+Result: {'Говядина ': {'measure': ' г', 'quantity': 3000}, 'Перец сладкий ': {'measure': ' шт', 'quantity': 6}, 'Лаваш ': {'measure': ' шт', 'quantity': 12}, 'Винный уксус ': {'measure': ' ст.л', 'quantity': 6}, 'Помидор ': {'measure': ' шт', 'quantity': 12}}
+
